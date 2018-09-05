@@ -3,3 +3,5 @@ solat 5 waktu
 puasa
 zakat
 haji
+
+telah lengkap
